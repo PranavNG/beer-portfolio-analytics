@@ -83,5 +83,3 @@ Based on the team's analysis, recommendations included:
 ## Project Context
 
 This was a **group academic project**. The business analysis and recommendations were developed collaboratively by the project team.
-
-My individual contribution focused primarily on **data modelling and building the final Power BI dashboard**.
