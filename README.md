@@ -79,7 +79,7 @@ Based on the team's analysis, recommendations included:
 
 ## Project Files
 
-- `INFS5700_TeamProject_W12A_G3.pbix` – Interactive Power BI dashboard
+- `Beer-Portfolio-Analytics.pbix` – Interactive Power BI dashboard
 ## Project Context
 
 This was a **group academic project**. The business analysis and recommendations were developed collaboratively by the project team.
