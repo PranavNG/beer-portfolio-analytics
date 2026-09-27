@@ -80,8 +80,6 @@ Based on the team's analysis, recommendations included:
 ## Project Files
 
 - `INFS5700_TeamProject_W12A_G3.pbix` – Interactive Power BI dashboard
-- `INFS5700_TeamProject_W12A_G3.pptx` – Team presentation and analysis
-
 ## Project Context
 
 This was a **group academic project**. The business analysis and recommendations were developed collaboratively by the project team.
